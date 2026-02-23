@@ -1,8 +1,7 @@
 # 🚢 Titanic Survival Prediction using Machine Learning
 
 > Internship Project – Data Science & Classification Modeling  
-> Role: Data Scientist Intern  
-> Author: Shivan Mishra  
+> Role: Data Scientist Intern 
 
 ---
 
